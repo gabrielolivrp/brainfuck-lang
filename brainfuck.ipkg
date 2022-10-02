@@ -1,0 +1,10 @@
+package brainfuck
+
+modules = Main
+main = Main
+
+depends = contrib
+
+executable = brainfuck
+
+sourcedir = "src"
